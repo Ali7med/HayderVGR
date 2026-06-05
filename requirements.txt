@@ -1,0 +1,9 @@
+tensorflow>=2.12
+numpy
+scikit-learn
+opencv-python
+mediapipe
+matplotlib
+pillow
+insightface
+onnxruntime-gpu
